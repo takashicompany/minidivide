@@ -4,7 +4,7 @@
 
 **組み立てる前に、全ての工程に目を通し、頭の中で組み立てるイメージをすると失敗を少なくスムーズに作業が進められます。**
 
-### 1. 基盤の表裏の確認
+### 1. PCBの表裏の確認
 
 表  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3639.jpg?raw=true" width = "600px" />
@@ -12,7 +12,9 @@
 裏  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3640.jpg?raw=true" width = "600px" />
 
-両手分を組み立てる場合は、左右を混同しないようにマスキングテープなどで表面に目印を付けておくとミスを減らすことができます。  
+**PCBはリバーシブルとなっ ており、左手側の表は右手側の裏面となります。**
+
+左右を混同しないようにマスキングテープなどで表面に目印を付けておくとミスを減らすことができます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3645.jpg?raw=true" width = "600px" />
 
 ### 2. ダイオードのハンダ付け
@@ -62,16 +64,23 @@ miniDivideのPCBはリバーシブルとなっているため、左手用右手�
 ジャンパは、PCBをリバーシブルで使う際の電気の流れを左手右手用に設定するものです。  
 以上は余談ですので、理解しないまま作業を進めていただいても構いません。
 
-
+赤丸で囲んだ場所がジャンパの位置です。PCBの**裏側**にあります。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3659_red.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+基盤裏側のジャンパを赤丸の箇所と同様に白い枠内で囲まれたハンダ付け箇所同士をハンダで繋ぎます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3660.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+全部で4箇所のジャンパをハンダで繋げたら完了です。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3661.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 5. Pro Microの取り付け
+
+Pro Microを取り付けます。今回動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3667.jpg?raw=true" width = "600px" />
+
+PCBはコンスルーに対応しております。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3668.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
