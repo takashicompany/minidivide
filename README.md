@@ -80,30 +80,60 @@ miniDivideのPCBはリバーシブルとなっているため、左手用右手�
 Pro Microを取り付けます。今回動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3667.jpg?raw=true" width = "600px" />
 
-PCBはコンスルーに対応しております。  
+PCBはピンヘッダのハンダ付けとコンスルーに対応しております。  
 通常のPro Microを利用する場合は12ピン、BLE Micro Proを利用する場合は13ピンを使うこととなります。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3668.jpg?raw=true" width = "600px" />
 
+なお、左手と右手でPro Microを取り付ける際の面が異なりますので、ご注意ください。
+下記は一般的なPro Microでの取り付けとなります。  
+使用されるMCUによってはピンの配置が異なる可能性がありますので、PCBの表記とMCUの表記が合うかをご確認ください。
 
+#### a. 左手
+
+Pro Microの回路部分が底面に来るようにピンヘッダ・コンスルーを取り付けます。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3669.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+#### b. 右手
+
+Pro Microの回路部分が表面に来るようにピンヘッダ・コンスルーを取り付けます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3972.jpg?raw=true" width = "600px" />
+
+取り付けの際は、PCBの穴とPro Microの番号が合うように配置します。  
+一番奥のBATとGNDはBLE Micro Pro用の穴ですので、通常のPro Microでは使用しません。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3976.jpg?raw=true" width = "600px" />
+
+Pro Microとピンヘッダ or コンスルー、PCBを仮組みします。  
+取り付け位置はPCBの表側です。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3978.jpg?raw=true" width = "600px" />
+
+Pro Microとピンヘッダ or コンスルーをハンダ付けします。  
+ピンヘッダを用いる場合は、PCBとピンヘッダを裏面からハンダ付けします。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3679.jpg?raw=true" width = "600px" />
+
+### 6. ファームウェアの書き込み
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 7. バックライトLEDの取り付け
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+この項目は組み立て後に実施しても問題ありません。
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+バックライトLEDはWS2812Bを取り付け可能です。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3683.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+リセットスイッチと同じ要領で、予備ハンダをした後にピンセットでLEDを持ちながら予備ハンダを溶かして1箇所を固定します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3684.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+LEDひとつにつき、4箇所をハンダ付けします。  
+PCBに印字している番号が小さい順にハンダ付けをしていきます。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3690.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+慣れるまでは、LEDを一つ取り付けるごとにUSBを繋いでLEDが点灯するかを確認すると着実に作業を進められます。  
+LEDが店頭しない際は、キーマップに`RGB_MOD`を設定して、LEDのON/OFFを試行してください。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3691.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 8. TRRSソケットの取り付け
+左手と右手の接続にはTRRSソケットとTRRSケーブルを使用します。
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
