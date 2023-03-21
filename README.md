@@ -26,6 +26,7 @@
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3648.jpg?raw=true" width = "600px" />
 
 以下は別のキーボードでの作業動画となります。後述するダイオードのハンダ付けの仕方の行程がございますので、未経験の方は事前にご覧になるとより理解が深まるかと思います。  
+
 https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-ab5c-2903e0420978.mov
 
 ダイオード取付箇所に予備ハンダを行います。ハンダ付けの片方にハンダを溶かして載せておきます。  
@@ -80,9 +81,11 @@ Pro Microを取り付けます。今回動作確認済みのものは[こちら]
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3667.jpg?raw=true" width = "600px" />
 
 PCBはコンスルーに対応しております。  
+通常のPro Microを利用する場合は12ピン、BLE Micro Proを利用する場合は13ピンを使うこととなります。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3668.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3669.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
