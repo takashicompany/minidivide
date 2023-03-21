@@ -133,16 +133,24 @@ LEDが店頭しない際は、キーマップに`RGB_MOD`を設定して、LED�
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3691.jpg?raw=true" width = "600px" />
 
 ### 8. TRRSソケットの取り付け
-左手と右手の接続にはTRRSソケットとTRRSケーブルを使用します。
+左手と右手の接続にはTRRSソケットとTRRSケーブルを使用します。  
+取り付け位置はPCBに「TRRS」と印字された箇所です.  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3692.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+PCBの表面に載るようにTRRSソケットを取り付けます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3693.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+PCBを裏返してTRRSソケットの足が表面に出ているかを確認します。裏返す前にTRRSソケットをマスキングテープなどで固定すると作業がスムーズに進められます。  
+全部で4本の足が出ていればOKです。足をハンダ付けします。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3694.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 9. スイッチプレートとキースイッチの取り付け
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+下図右のスイッチプレートとキースイッチをPCBに取り付けます。
+スイッチプレートに保護シートが貼られている場合は、ピンセットで剥がしてください。剥がしづらい場合は水を少量含ませると剥がれやすくなるかと思います。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3722.jpg?raw=true" width = "600px" />
 
+スイッチプレートをPCBの上に置きます。    
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
