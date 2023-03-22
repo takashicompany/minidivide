@@ -171,9 +171,10 @@ PCBの裏側からキースイッチの足が出ていることを確認しま�
 スイッチプレートと同様に保護シートが貼られている場合は剥がします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3731.jpg?raw=true" width = "600px" />
 
-
+短いネジ(5mm)と短いスペーサー(7mm)を取り出します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3733.jpg?raw=true" width = "600px" />
 
+Pro Micro左下(
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
