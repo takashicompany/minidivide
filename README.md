@@ -150,20 +150,29 @@ PCBを裏返してTRRSソケットの足が表面に出ているかを確認し�
 スイッチプレートに保護シートが貼られている場合は、ピンセットで剥がしてください。剥がしづらい場合は水を少量含ませると剥がれやすくなるかと思います。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3722.jpg?raw=true" width = "600px" />
 
-スイッチプレートをPCBの上に置きます。    
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+スイッチプレートをPCBの表面に置きます。    
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3723.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+スイッチプレートにキースイッチを取り付け、PCBに挿します。一気に全てのキースイッチを挿すのではなく、数カ所にキースイッチを挿してハンダ付けをしてスイッチプレートとPCBを固定した後に残りのキースイッチを取り付けると作業がスムーズに進みます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3725.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+PCBの裏側からキースイッチの足が出ていることを確認します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3726.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+キースイッチの足とPCBをハンダ付けします。キースイッチでPCBとスイッチプレートを固定するので、キースイッチを押し込みながらハンダ付けすると、強固になります。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3728.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+片手側で19個、両手で38個のキースイッチをハンダ付けします。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_2729.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 10. サイドプレート・ボトムプレートの取り付け
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+サイドプレートとボトムプレートをスイッチプレートに固定します。  
+スイッチプレートと同様に保護シートが貼られている場合は剥がします。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3731.jpg?raw=true" width = "600px" />
+
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3733.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
