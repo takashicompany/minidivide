@@ -247,7 +247,32 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 ダイオードと同様に予備ハンダをして積層セラミックコンデンサをハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3930.jpg?raw=true" width = "600px" />
 
-電池ホルダーをPCBの表側に置きます。  
+電池ホルダーを取り出します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.3931jpg?raw=true" width = "600px" />
+
+電池ホルダーをPCBに挿す際に電池ホルダーの足の本数を参考に取り付ける向きを確認します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3932.jpg?raw=true" width = "600px" />
+
+電池ホルダーをPCBの表側に挿します。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3934.jpg?raw=true" width = "600px" />
+
+電池ホルダーをハンダ付けする前に、表面からマスキングテープで固定すると作業がスムーズに行なえます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3935.jpg?raw=true" width = "600px" />
+
+電池ホルダーの足がPCBの裏側から出ていることを確認します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3937.jpg?raw=true" width = "600px" />
+
+電池ホルダーの足をハンダ付けします。ハンダが盛られすぎると、アクリルケースが浮いてしまうことがあるので、なるべく薄めにハンダ付けすると良いかと思います。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3939.jpg?raw=true" width = "600px" />
+
+コイン電池(CR1632)を取り付けて完成です。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3948.jpg?raw=true" width = "600px" />
+
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
