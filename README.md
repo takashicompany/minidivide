@@ -241,11 +241,13 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 電源スイッチをPCBに載せた後に電源スイッチの足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3928.jpg?raw=true" width = "600px" />
 
-積層セラミックコンデンサ
+積層セラミックコンデンサをPCBの裏側の置きます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3929.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+ダイオードと同様に予備ハンダをして積層セラミックコンデンサをハンダ付けします。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3930.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+電池ホルダーをPCBの表側に置きます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.3931jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
