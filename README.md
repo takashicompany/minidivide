@@ -171,45 +171,78 @@ PCBの裏側からキースイッチの足が出ていることを確認しま�
 スイッチプレートと同様に保護シートが貼られている場合は剥がします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3731.jpg?raw=true" width = "600px" />
 
-短いネジ(5mm)と短いスペーサー(7mm)を取り出します。  
+短いネジ(5mm)と短いスペーサー(6mm)を取り出します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3733.jpg?raw=true" width = "600px" />
 
-Pro Micro左下(
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+Pro Micro左下(右手の場合は右下)の穴にスペーサーを載せます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3734.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+PCBを裏返して、スペーサーをネジで固定します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3735.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+短いネジ(5mm)と長いスペーサー(10mm)を取り出します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3736.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+スペーサーをボトムプレートに載せます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3737.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+ネジでスペーサーをボトムプレートに固定します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3738.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+長いネジ(8mm)と短いスペーサーを取り出します。(写真は長いネジのみ)  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3739_b.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+長いネジを裏側から奥側のPro Micro横の穴に挿します。この時、ボトムプレート・サイドプレート・スイッチプレートを重ね合わせます。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3940.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+表側から前述のネジにスペーサーを挿します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3741.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+長いネジ(8mm)とナットを取り出します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3739.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+キーボード外縁のネジ穴にネジを挿しナットで固定します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3742.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+裏面はこのようになっています。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3743.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 11. Pro Microプレートの取り付け
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+前の項で取り付けたスペーサーに、Pro Microプレートを取り付けます。
+Pro Microプレートに保護シートが貼ってある場合は同様に剥がして下さい。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3744.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+短いネジでスペーサーとPro Microプレートを固定します。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3745.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 12. ゴム足の貼り付け
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+キーボードを机上に置いた際の滑り止めとしてゴム足シールを張ります。  
+キーボード片側で4つゴム足シールを取り付けます。
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3748.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+以下は取り付け例になります。ご自身の打鍵スタイルにあわせて調整すると良いかと思います。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3749_b.jpg?raw=true" width = "600px" />
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+### 13. キーキャップの取り付け
+
+### 14. BLE Micro Proで無線化する
+
+**Pro Microで動作が確認できた後に実施することをオススメします。**  
+
+必要な部品はBLE Micro Proに加えて
+- 電池ホルダー(HU1632)
+- 電源スイッチ
+- 積層セラミックコンデンサ
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3927.jpg?raw=true" width = "600px" />
+
+電源スイッチをPCB裏側に取り付けます。  
+電源スイッチをPCBに載せた後に電源スイッチの足をハンダ付けします。  
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3928.jpg?raw=true" width = "600px" />
+
+積層セラミックコンデンサ
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3929.jpg?raw=true" width = "600px" />
 
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
