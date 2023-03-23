@@ -268,11 +268,4 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 コイン電池(CR1632)を取り付けて完成です。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3948.jpg?raw=true" width = "600px" />
 
-
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
-
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide)に公開しております。
