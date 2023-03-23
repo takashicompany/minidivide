@@ -249,7 +249,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3930.jpg?raw=true" width = "600px" />
 
 電池ホルダーを取り出します。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.3931jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3931.jpg?raw=true" width = "600px" />
 
 電池ホルダーをPCBに挿す際に電池ホルダーの足の本数を参考に取り付ける向きを確認します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3932.jpg?raw=true" width = "600px" />
