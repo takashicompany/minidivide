@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/4215759/126895350-43ae4cd4-408b-4ff4-a
 もう片方もハンダ付けします。   
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3653.jpg?raw=true" width = "600px" />
 
-片手分で19箇所、両手で38箇所にダイオードをハンダ付けします。
+片手分で19箇所、両手で38箇所にダイオードをハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3654.jpg?raw=true" width = "600px" />
 
 ### 3. リセットスイッチの取り付け
@@ -50,13 +50,13 @@ Pro Microにファームウェアを書き込む際に押すリセットスイ�
 リセットスイッチは基盤裏側に取り付けます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3656.jpg?raw=true" width = "600px" />
 
-ダイオードと同様に予備ハンダをして取り付けます。
+ダイオードと同様に予備ハンダをして取り付けます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3657.jpg?raw=true" width = "600px" />
 
-一箇所を予備ハンダを溶かしながらハンダ付けをします。
+一箇所を予備ハンダを溶かしながらハンダ付けをします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3658.jpg?raw=true" width = "600px" />
 
-4箇所をハンダ付けすれば完了です。
+4箇所をハンダ付けすれば完了です。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3659.jpg?raw=true" width = "600px" />
 
 ### 4. ジャンパのハンダ付け
@@ -77,7 +77,7 @@ miniDivideのPCBはリバーシブルとなっているため、左手用右手�
 
 ### 5. Pro Microの取り付け
 
-Pro Microを取り付けます。今回動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。
+Pro Microを取り付けます。今回動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)です。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3667.jpg?raw=true" width = "600px" />
 
 PCBはピンヘッダのハンダ付けとコンスルーに対応しております。  
@@ -90,7 +90,7 @@ PCBはピンヘッダのハンダ付けとコンスルーに対応しており�
 
 #### a. 左手
 
-Pro Microの回路部分が底面に来るようにピンヘッダ・コンスルーを取り付けます。
+Pro Microの回路部分が底面に来るようにピンヘッダ・コンスルーを取り付けます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3669.jpg?raw=true" width = "600px" />
 
 #### b. 右手
@@ -107,7 +107,7 @@ Pro Microとピンヘッダ or コンスルー、PCBを仮組みします。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3978.jpg?raw=true" width = "600px" />
 
 Pro Microとピンヘッダ or コンスルーをハンダ付けします。  
-ピンヘッダを用いる場合は、PCBとピンヘッダを裏面からハンダ付けします。
+ピンヘッダを用いる場合は、PCBとピンヘッダを裏面からハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3679.jpg?raw=true" width = "600px" />
 
 ### 6. ファームウェアの書き込み
@@ -125,7 +125,7 @@ Pro Microとピンヘッダ or コンスルーをハンダ付けします。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3684.jpg?raw=true" width = "600px" />
 
 LEDひとつにつき、4箇所をハンダ付けします。  
-PCBに印字している番号が小さい順にハンダ付けをしていきます。
+PCBに印字している番号が小さい順にハンダ付けをしていきます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3690.jpg?raw=true" width = "600px" />
 
 慣れるまでは、LEDを一つ取り付けるごとにUSBを繋いでLEDが点灯するかを確認すると着実に作業を進められます。  
@@ -141,16 +141,16 @@ PCBの表面に載るようにTRRSソケットを取り付けます。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3693.jpg?raw=true" width = "600px" />
 
 PCBを裏返してTRRSソケットの足が表面に出ているかを確認します。裏返す前にTRRSソケットをマスキングテープなどで固定すると作業がスムーズに進められます。  
-全部で4本の足が出ていればOKです。足をハンダ付けします。
+全部で4本の足が出ていればOKです。足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3694.jpg?raw=true" width = "600px" />
 
 ### 9. スイッチプレートとキースイッチの取り付け
 
-下図右のスイッチプレートとキースイッチをPCBに取り付けます。
-スイッチプレートに保護シートが貼られている場合は、ピンセットで剥がしてください。剥がしづらい場合は水を少量含ませると剥がれやすくなるかと思います。
+下図右のスイッチプレートとキースイッチをPCBに取り付けます。  
+スイッチプレートに保護シートが貼られている場合は、ピンセットで剥がしてください。剥がしづらい場合は水を少量含ませると剥がれやすくなるかと思います。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3722.jpg?raw=true" width = "600px" />
 
-スイッチプレートをPCBの表面に置きます。    
+スイッチプレートをPCBの表面に置きます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3723.jpg?raw=true" width = "600px" />
 
 スイッチプレートにキースイッチを取り付け、PCBに挿します。一気に全てのキースイッチを挿すのではなく、数カ所にキースイッチを挿してハンダ付けをしてスイッチプレートとPCBを固定した後に残りのキースイッチを取り付けると作業がスムーズに進みます。  
@@ -209,7 +209,7 @@ PCBを裏返して、スペーサーをネジで固定します。
 
 ### 11. Pro Microプレートの取り付け
 
-前の項で取り付けたスペーサーに、Pro Microプレートを取り付けます。
+前の項で取り付けたスペーサーに、Pro Microプレートを取り付けます。  
 Pro Microプレートに保護シートが貼ってある場合は同様に剥がして下さい。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3744.jpg?raw=true" width = "600px" />
 
@@ -219,7 +219,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 ### 12. ゴム足の貼り付け
 
 キーボードを机上に置いた際の滑り止めとしてゴム足シールを張ります。  
-キーボード片側で4つゴム足シールを取り付けます。
+キーボード片側で4つゴム足シールを取り付けます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3748.jpg?raw=true" width = "600px" />
 
 以下は取り付け例になります。ご自身の打鍵スタイルにあわせて調整すると良いかと思います。  
@@ -235,6 +235,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 - 電池ホルダー(HU1632)
 - 電源スイッチ
 - 積層セラミックコンデンサ
+
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3927.jpg?raw=true" width = "600px" />
 
 電源スイッチをPCB裏側に取り付けます。  
@@ -253,7 +254,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 電池ホルダーをPCBに挿す際に電池ホルダーの足の本数を参考に取り付ける向きを確認します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3932.jpg?raw=true" width = "600px" />
 
-電池ホルダーをPCBの表側に挿します。
+電池ホルダーをPCBの表側に挿します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3934.jpg?raw=true" width = "600px" />
 
 電池ホルダーをハンダ付けする前に、表面からマスキングテープで固定すると作業がスムーズに行なえます。  
@@ -262,7 +263,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 電池ホルダーの足がPCBの裏側から出ていることを確認します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3937.jpg?raw=true" width = "600px" />
 
-電池ホルダーの足をハンダ付けします。ハンダが盛られすぎると、アクリルケースが浮いてしまうことがあるので、なるべく薄めにハンダ付けすると良いかと思います。
+電池ホルダーの足をハンダ付けします。ハンダが盛られすぎると、アクリルケースが浮いてしまうことがあるので、なるべく薄めにハンダ付けすると良いかと思います。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3939.jpg?raw=true" width = "600px" />
 
 コイン電池(CR1632)を取り付けて完成です。  
