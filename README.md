@@ -151,7 +151,7 @@ Pro Microの回路部分が底面に来るようにピンヘッダ・コンス�
 #### b. 右手
 
 Pro Microの回路部分が表面に来るようにピンヘッダ・コンスルーを取り付けます。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3６72.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3672.jpg?raw=true" width = "600px" />
 
 取り付けの際は、PCBの穴とPro Microの番号が合うように配置します。  
 一番奥のBATとGNDはBLE Micro Pro用の穴ですので、通常のPro Microでは使用しません。  
