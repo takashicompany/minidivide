@@ -167,6 +167,8 @@ Pro Microとピンヘッダ or コンスルーをハンダ付けします。
 
 ### 6. ファームウェアの書き込み
 
+ファームウェアのソースコードは[こちら](https://github.com/qmk/qmk_firmware/pull/19870)です。
+
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
 
 ### 7. バックライトLEDの取り付け
