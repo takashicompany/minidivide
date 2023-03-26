@@ -1,5 +1,52 @@
 # miniDivide
 
+## 部品
+
+### キットに含まれているもの
+|部品|個数|備考|
+|:--|:--|:--|
+|PCB|2||
+|スイッチプレート|2||
+|側面プレート|2||
+|ボトムプレート|2||
+|Pro Microプレート|2||
+|[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
+|[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
+|TRRSソケット|2||
+|ゴム足シール|8||
+|短いネジ(M2 5mm)|8||
+|長いネジ(M2 8mm)|18||
+|短いスペーサー(M2 6mm)|4||
+|短いスペーサー(M2 10mm)|2||
+|ナット(M2)|14||
+
+### ご自身で用意頂くもの
+|部品|個数|備考|
+|:--|:--|:--|
+|[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
+|0.8uキーキャップ(16mm)|38|詳細は後述|
+|Pro Micro|2|BLE Micro Proにも対応済み|
+
+#### キーキャップ
+キーキャップは0.8uピッチ(16mm未満)に対応したものをご利用ください。
+
+[こちらの記事](https://e3w2q.github.io/10/)を参考にするとより良いかと思います。
+
+以下は取り付け確認済みのキーキャップです。
+
+[Choc 向け 挟ピッチ16mm 薄型キーキャップ（50個）  
+<img src = "https://img.make.dmm.com/images/item/1273303/main_angled_R_20210609122258214_l.jpg" width="400px" />](https://make.dmm.com/item/1273303/)
+
+[YKNキーキャップセット(Chocスイッチ 16x16mmキーピッチ用) v1.2  
+<img src = "https://img.make.dmm.com/images/item/1280053/16x16choc2_20210221120518672_l.jpg" width="400px" />](https://make.dmm.com/item/1280053/)
+
+### お好みで
+|部品|個数|備考|
+|:--|:--|:--|
+|BLE Micro Pro|2||
+|コンスルー|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
+|[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
+
 ## 組み立て方
 
 **組み立てる前に、全ての工程に目を通し、頭の中で組み立てるイメージをすると失敗を少なくスムーズに作業が進められます。**
