@@ -1,4 +1,6 @@
 # miniDivide
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/01.jpg?raw=true" width = "600px" />
+
 
 ## 部品
 
