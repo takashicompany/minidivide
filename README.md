@@ -1,8 +1,12 @@
 # miniDivide
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/01.jpg?raw=true" width = "600px" />
 
-miniDivideは16mmの狭キーピッチを採用した分割型のキーボードです。
-とても小さいキーボードのため、持ち運びやすくスマートフォンと
+miniDivideは16mmの狭キーピッチを採用した分割型のキーボードです。  
+小さく薄いため持ち運びやすく、特にスマートフォンとの相性は最高です。  
+デスクの占有スペースも小さくて済むので普段遣いにも適しています。  
+従来のキーボードよりキーの間隔が近いため、最小限の指の動きで文字を打鍵することが可能です。  
+
+オプションでBLE Micro Proとコイン電池を搭載可能なため、PC・スマートフォン・タブレットへBluetoothでの接続が可能です。
 
 ## 部品
 
@@ -10,9 +14,9 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|2||
-|スイッチプレート|2||
-|側面プレート|2||
-|ボトムプレート|2||
+|スイッチプレート|2|2mm厚アクリルプレート|
+|側面プレート|2|2mm厚アクリルプレート|
+|ボトムプレート|2|2mm厚アクリルプレート|
 |Pro Microプレート|2||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
