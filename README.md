@@ -1,6 +1,8 @@
 # miniDivide
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/01.jpg?raw=true" width = "600px" />
 
+miniDivideは16mmの狭キーピッチを採用した分割型のキーボードです。
+とても小さいキーボードのため、持ち運びやすくスマートフォンと
 
 ## 部品
 
