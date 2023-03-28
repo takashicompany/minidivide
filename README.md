@@ -296,6 +296,12 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 
 ### 13. キーキャップの取り付け
 
+キーキャップを取り付けます。  
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3779.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_4207.jpg?raw=true" width = "600px" />
+
 ### 14. BLE Micro Proで無線化する
 
 **Pro Microで動作が確認できた後に実施することをオススメします。**  
