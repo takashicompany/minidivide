@@ -1,6 +1,12 @@
 # miniDivide
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/01.jpg?raw=true" width = "600px" />
 
+miniDivideは16mmの狭キーピッチを採用した分割型のキーボードです。  
+小さく薄いため持ち運びやすく、特にスマートフォンとの相性は最高です。  
+デスクの占有スペースも小さくて済むので普段遣いにも適しています。  
+従来のキーボードよりキーの間隔が近いため、最小限の指の動きで文字を打鍵することが可能です。  
+
+オプションでBLE Micro Proとコイン電池を搭載可能なため、PC・スマートフォン・タブレットへBluetoothでの接続が可能です。
 
 ## 部品
 
@@ -8,9 +14,9 @@
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|2||
-|スイッチプレート|2||
-|側面プレート|2||
-|ボトムプレート|2||
+|スイッチプレート|2|2mm厚アクリルプレート|
+|側面プレート|2|2mm厚アクリルプレート|
+|ボトムプレート|2|2mm厚アクリルプレート|
 |Pro Microプレート|2||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
@@ -27,7 +33,7 @@
 |:--|:--|:--|
 |[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
 |0.8uキーキャップ(16mm)|38|詳細は後述|
-|Pro Micro|2|BLE Micro Proにも対応済み|
+|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
 
 #### キーキャップ
 キーキャップは0.8uピッチ(16mm未満)に対応したものをご利用ください。
@@ -42,11 +48,18 @@
 [YKNキーキャップセット(Chocスイッチ 16x16mmキーピッチ用) v1.2  
 <img src = "https://img.make.dmm.com/images/item/1280053/16x16choc2_20210221120518672_l.jpg" width="400px" />](https://make.dmm.com/item/1280053/)
 
+### 無線化をする場合
+|部品|個数|備考|
+|:--|:--|:--|
+|[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|2|Pro Microの代わりに取り付けることでBluetooth接続が可能。|
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|2||
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2||
+
 ### お好みで
 |部品|個数|備考|
 |:--|:--|:--|
-|BLE Micro Pro|2||
-|コンスルー|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
+|[コンスルー](https://talpkeyboard.net/?category_id=5e451917cf327f255e6ae3ba)|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
 |[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
 
 ## 組み立て方
@@ -145,15 +158,15 @@ Pro Microの回路部分が底面に来るようにピンヘッダ・コンス�
 #### b. 右手
 
 Pro Microの回路部分が表面に来るようにピンヘッダ・コンスルーを取り付けます。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3972.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3672.jpg?raw=true" width = "600px" />
 
 取り付けの際は、PCBの穴とPro Microの番号が合うように配置します。  
 一番奥のBATとGNDはBLE Micro Pro用の穴ですので、通常のPro Microでは使用しません。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3976.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3676.jpg?raw=true" width = "600px" />
 
 Pro Microとピンヘッダ or コンスルー、PCBを仮組みします。  
 取り付け位置はPCBの表側です。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3978.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3678.jpg?raw=true" width = "600px" />
 
 Pro Microとピンヘッダ or コンスルーをハンダ付けします。  
 ピンヘッダを用いる場合は、PCBとピンヘッダを裏面からハンダ付けします。  
@@ -161,7 +174,14 @@ Pro Microとピンヘッダ or コンスルーをハンダ付けします。
 
 ### 6. ファームウェアの書き込み
 
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_.jpg?raw=true" width = "600px" />
+ファームウェアのソースコードは[こちら](https://github.com/qmk/qmk_firmware/pull/19870)です。
+
+Remapに対応しておりますので、[こちら](https://remap-keys.app/catalog/1zomPyGLGTcYW5gwoL6y/firmware)からファームウェアを書き込むことが可能です。
+<img src = "https://user-images.githubusercontent.com/4215759/227790333-19d4aa23-8e11-4efb-a23b-55d9bf44172b.png" width = "600px" />
+
+上述のファームウェアを書き込んだ後に、Remapを使うことでWebブラウザからキーマップの変更が可能です。
+<img src = "https://user-images.githubusercontent.com/4215759/227790093-2f09359d-628a-477d-96a4-adc9cd498c86.png" width = "600px" />
+
 
 ### 7. バックライトLEDの取り付け
 
@@ -275,6 +295,12 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3749_b.jpg?raw=true" width = "600px" />
 
 ### 13. キーキャップの取り付け
+
+キーキャップを取り付けます。  
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3779.jpg?raw=true" width = "600px" />
+
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_4207.jpg?raw=true" width = "600px" />
 
 ### 14. BLE Micro Proで無線化する
 
