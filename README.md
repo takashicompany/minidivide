@@ -33,7 +33,7 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 |:--|:--|:--|
 |[Kailh Choc v1キースイッチ](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)|38||
 |0.8uキーキャップ(16mm)|38|詳細は後述|
-|Pro Micro|2|BLE Micro Proにも対応済み|
+|[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|2|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
 
 #### キーキャップ
 キーキャップは0.8uピッチ(16mm未満)に対応したものをご利用ください。
@@ -51,7 +51,7 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 ### 無線化をする場合
 |部品|個数|備考|
 |:--|:--|:--|
-|BLE Micro Pro|2||
+|[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|2|Pro Microの代わりに取り付けることでBluetooth接続が可能。|
 |[HU1632](https://www.monotaro.com/p/8835/2765/)|2||
 |[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2||
 |[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2||
@@ -59,7 +59,7 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 ### お好みで
 |部品|個数|備考|
 |:--|:--|:--|
-|コンスルー|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
+|[コンスルー](https://talpkeyboard.net/?category_id=5e451917cf327f255e6ae3ba)|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
 |[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
 
 ## 組み立て方
