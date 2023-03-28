@@ -48,10 +48,17 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 [YKNキーキャップセット(Chocスイッチ 16x16mmキーピッチ用) v1.2  
 <img src = "https://img.make.dmm.com/images/item/1280053/16x16choc2_20210221120518672_l.jpg" width="400px" />](https://make.dmm.com/item/1280053/)
 
-### お好みで
+### 無線化をする場合
 |部品|個数|備考|
 |:--|:--|:--|
 |BLE Micro Pro|2||
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|2||
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2||
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2||
+
+### お好みで
+|部品|個数|備考|
+|:--|:--|:--|
 |コンスルー|4|BLE Micro Proを使う場合は13ピンのものを使用することもできます。|
 |[LED(WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウです。|
 
