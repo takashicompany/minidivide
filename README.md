@@ -27,6 +27,10 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 |短いスペーサー(M2 6mm)|4||
 |短いスペーサー(M2 10mm)|2||
 |ナット(M2)|14||
+|[HU1632](https://www.monotaro.com/p/8835/2765/)|2|BLE Micro Proでの無線化の際に使用。|
+|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2|BLE Micro Proでの無線化の際に使用。|
+|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2|BLE Micro Proでの無線化の際に使用。|
+
 
 ### ご自身で用意頂くもの
 |部品|個数|備考|
@@ -52,9 +56,7 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 |部品|個数|備考|
 |:--|:--|:--|
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|2|Pro Microの代わりに取り付けることでBluetooth接続が可能。|
-|[HU1632](https://www.monotaro.com/p/8835/2765/)|2||
-|[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2||
-|[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2||
+
 
 ### お好みで
 |部品|個数|備考|
