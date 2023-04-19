@@ -350,12 +350,14 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide)に公開しております。
 
 上記のconfig.jsonを使用する場合は
+左手側が親機(PCとBluetooth接続をする & 子機との接続も行う)となります。
 
-1. 左手側(Master側)のBLE MICRO PROをPCにUSBで接続し、 `CONFIG.JSN`に[`takashicompany_minidivide_master_left_config.json`](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide/takashicompany_minidivide_master_left_config.json)のテキストを上書きして保存する。
-1. 右手側(Slave側)のBLE MICRO PROをPCにUSBで接続し、 `CONFIG.JSN`に[`takashicompany_minidivide_slave_right_config.json`](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide/takashicompany_minidivide_slave_right_config.json)のテキストを上書きして保存する。
+1. 左手側(親機)のBLE MICRO PROをPCにUSBで接続し、 `CONFIG.JSN`に[`takashicompany_minidivide_master_left_config.json`](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide/takashicompany_minidivide_master_left_config.json)のテキストを上書きして保存する。
+1. 右手側(子機)のBLE MICRO PROをPCにUSBで接続し、 `CONFIG.JSN`に[`takashicompany_minidivide_slave_right_config.json`](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/blob/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide/takashicompany_minidivide_slave_right_config.json)のテキストを上書きして保存する。
 1. 左手のminiDivideをBluetoothでPCと接続する
 1. 左手のminiDivideをBluetoothで右手のminiDivideと接続する
 
 という手順で進めると左右間とPCで無線接続が可能になるかと思います。
 
 [BLE Micro Pro用のQMK Configurator](https://sekigon-gonnoc.github.io/qmk_configurator)を用いて、接続状態などを確認しながらやると、作業が進めやすくなるかと思います。
+
