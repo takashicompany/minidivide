@@ -348,3 +348,10 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3948.jpg?raw=true" width = "600px" />
 
 config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide)に公開しております。
+
+上記のconfig.jsonを使用する場合は
+
+1. 左手側に `takashicompany_minidivide_master_left_config.json`のテキストを BLE Micro Pro内の`CONFIG.JSN`に上書きする
+
+1. 左手側に `takashicompany_minidivide_master_left_config.json`のテキストを BLE Micro Pro内の`CONFIG.JSN`に上書きを。
+1. 左手側に `takashicompany_minidivide_master_left_config.json`のテキストを BLE Micro Pro内の`CONFIG.JSN`に上書きを
