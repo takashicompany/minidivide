@@ -363,7 +363,16 @@ config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-P
 1. 左手のminiDivideをBluetoothでPCと接続する
 1. 左手のminiDivideをBluetoothで右手のminiDivideと接続する
 
-という手順で進めると左右間とPCで無線接続が可能になるかと思います。
-
+という手順で進めると左右間とPCで無線接続が可能になるかと思います。  
 [BLE Micro Pro用のQMK Configurator](https://sekigon-gonnoc.github.io/qmk_configurator)を用いて、接続状態などを確認しながらやると、作業が進めやすくなるかと思います。
 
+## トラブルシューティング
+
+### BLE Micro Proを搭載した右手側のminiDivideが反応しない場合
+
+1. BLE Micro Pro(Pro Micro)の表裏があっているかを確認する。左手と右手で取り付けの際の表裏が異なります。
+1. miniDivideにPro Microを取り付けUSBでPCと接続して、各種キーが入力できるかを確認する。
+1. 接続に成功している左手側のBLE Micro Proを右手側に取り付けて動作するかを確認する。
+1. BLE Micro Proの[ブートローダーを最新版にする。](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/#/update/bootloader)
+1. BLE Micro Proの[アプリケーションを最新版にする。](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/#/update/application)
+1. [ペアリングを確認する](https://sekigon-gonnoc.github.io/BLE-Micro-Pro/#/getting_started?id=%e3%83%9a%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b)
