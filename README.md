@@ -326,7 +326,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 電源スイッチをPCBに載せた後に電源スイッチの足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3928.jpg?raw=true" width = "600px" />
 
-積層セラミックコンデンサをPCBの裏側の置きます。  
+積層セラミックコンデンサをPCBの裏側に置きます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3929.jpg?raw=true" width = "600px" />
 
 ダイオードと同様に予備ハンダをして積層セラミックコンデンサをハンダ付けします。  
