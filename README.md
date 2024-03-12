@@ -241,7 +241,7 @@ PCBの裏側からキースイッチの足が出ていることを確認しま�
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3728.jpg?raw=true" width = "600px" />
 
 片手側で19個、両手で38個のキースイッチをハンダ付けします。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_2729.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3729.jpg?raw=true" width = "600px" />
 
 ### 10. サイドプレート・ボトムプレートの取り付け
 
@@ -271,7 +271,7 @@ PCBを裏返して、スペーサーをネジで固定します。
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3739_b.jpg?raw=true" width = "600px" />
 
 長いネジを裏側から奥側のPro Micro横の穴に挿します。この時、ボトムプレート・サイドプレート・スイッチプレートを重ね合わせます。  
-<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3940.jpg?raw=true" width = "600px" />
+<img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3740.jpg?raw=true" width = "600px" />
 
 表側から前述のネジにスペーサーを挿します。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3741.jpg?raw=true" width = "600px" />
@@ -326,7 +326,7 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 電源スイッチをPCBに載せた後に電源スイッチの足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3928.jpg?raw=true" width = "600px" />
 
-積層セラミックコンデンサをPCBの裏側の置きます。  
+積層セラミックコンデンサをPCBの裏側に置きます。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3929.jpg?raw=true" width = "600px" />
 
 ダイオードと同様に予備ハンダをして積層セラミックコンデンサをハンダ付けします。  
