@@ -16,7 +16,7 @@ miniDivideは16mmの狭キーピッチを採用した分割型のキーボード
 |PCB|2||
 |[ダイオード(表面実装型)](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)|38||
 |[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-08081/)|2||
-|TRRSソケット|2||
+|[TRRSソケット(https://shop.yushakobo.jp/products/a0800tr-01-1?_pos=1&_sid=6aacd8367&_ss=r)]|2||
 |ゴム足シール|8||
 |[チップ積層セラミックコンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)|2|BLE Micro Proでの無線化の際に使用。|
 |[電源スイッチ(MK12C02)](https://ja.aliexpress.com/item/32798526843.html)|2|BLE Micro Proでの無線化の際に使用。|
