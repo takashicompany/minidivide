@@ -353,6 +353,8 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 コイン電池(CR1632)を取り付けて完成です。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3948.jpg?raw=true" width = "600px" />
 
+**2024年10月2日現在、BLE Micro Proのファームウェア及びConfiguratorが更新されたため、以下の手順は古いファームウェアとConfuguratorでの手順となります。古いファームウェアとConfiguratorは[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/legacy/)からアクセスできます。以下は古いファームウェアでのセットアップ手順となります。近日中に最新のファームウェア & Configuratorに対応した手順を用意したいと思います。**
+
 config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide)に公開しております。
 
 上記のconfig.jsonを使用する場合は
