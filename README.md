@@ -353,7 +353,16 @@ Pro Microプレートに保護シートが貼ってある場合は同様に剥�
 コイン電池(CR1632)を取り付けて完成です。  
 <img src = "https://github.com/takashicompany/minidivide/blob/master/images/build/IMG_3948.jpg?raw=true" width = "600px" />
 
-**2024年10月2日現在、BLE Micro Proのファームウェア及びConfiguratorが更新されたため、以下の手順は古いファームウェアとConfuguratorでの手順となります。古いファームウェアとConfiguratorは[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/legacy/)からアクセスできます。以下は古いファームウェアでのセットアップ手順となります。近日中に最新のファームウェア & Configuratorに対応した手順を用意したいと思います。**
+#### ファームウェア(BLE Micro Pro 1.0.0 以上)を利用する
+2024年11月15日時点では、こちらのバージョンが基本になっているようです。  
+
+[BLE Micro Pro Web Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/)からブートローダー、アプリケーション、miniDivideの設定を書き込むことができます。  
+[VIAL](https://vial.rocks/)にも対応しているようですので、[キーマップの他に細かい設定も変更する](https://salicylic-acid3.hatenablog.com/entry/vial-manual)ことが可能です。  
+[Remap](https://remap-keys.app/)にも対応しておりますので、こちら利用することも可能です。
+
+#### 古いファームウェア(BLE Micro Pro 1.0.0 未満)を利用する
+
+**以下の手順は古いファームウェアとConfuguratorでの手順となります。古いファームウェアとConfiguratorは[こちら](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/legacy/)からアクセスできます。以下は古いファームウェアでのセットアップ手順となります。近日中に最新のファームウェア & Configuratorに対応した手順を用意したいと思います。**
 
 config.jsonやkeymapは[こちら](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/AboutDefaultFirmware/keyboards/takashicompany/minidivide)に公開しております。
 
